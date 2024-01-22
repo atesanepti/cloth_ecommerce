@@ -1,0 +1,92 @@
+
+    .newsletter-input form input {
+        width: 200px;
+    }
+
+    .newsletter-text h2 {
+        font-size: 1.3rem;
+    }
+
+    .newsletter-text p {
+        font-size: .9rem;
+        margin-top: 5px;
+    }
+    section{
+        padding: 40px 60px !important;
+    }
+  
+   #footer {
+
+        grid-template-columns: auto auto auto;
+        grid-gap: 20px;
+    }
+
+    .apple,
+    .google-play {
+        width: 120px;
+
+
+
+    }
+
+    .apple i {
+        font-size: 1.3rem;
+
+    }
+
+    .google-play i {
+        font-size: 1rem;
+    }
+
+    .apple h3,
+    .google-play h3 {
+        font-size: 1rem;
+        font-weight: 500;
+    }
+
+    .google-play h3 {
+        margin-left: 5px;
+    }
+
+    .payment-getways-icons img {
+        width: 40px;
+        cursor: pointer;
+
+    }
+    #hero {
+  
+        background-position: top -53px right 0;
+        height: 70vh;
+    
+    }
+    .banner3{
+        height: 20vh;
+    }
+    .sm-banner {
+      
+        height: 30vh;
+        
+    
+    }
+
+
+
+
+
+
+    /* ?????? */
+   
+    
+    .single-pro-details{
+        padding: 20px 30px !important;
+    }
+   
+    .details-text h2{
+        margin-top: 30px;
+     
+    }
+    .details-text p{
+        font-size: .8rem;
+    
+        line-height: 15px;
+    }

@@ -1,0 +1,62 @@
+#footer {
+
+    grid-template-columns: auto auto;
+}
+
+#newsletter {
+    flex-direction: column;
+    text-align: center;
+    gap: 15px;
+}
+
+.newsletter-input form input {
+    padding: 10px;
+}
+
+.newsletter-input form button {
+    padding: 10px;
+}
+section{
+    padding: 30px 50px !important;
+}
+.navbar li a {
+ 
+    font-size: 1rem;
+}
+#header img{
+    width: 100px;
+}
+#hero {
+
+    background-position: top left 30%;
+    height: 70vh;
+
+}
+.banner3 h1 {
+
+    font-size: 1.3rem;
+
+
+}
+
+.banner3 h4 {
+    
+    margin-top: 10px;
+}
+#shop-banner{
+   
+    height: 30vh;
+   
+}
+.single-pro-details{
+    padding: 20px 20px !important;
+}
+
+.details-text h2{
+    margin-top: 20px;
+ 
+}
+.details-text p{
+    font-size: .7rem;
+
+}
